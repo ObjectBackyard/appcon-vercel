@@ -23,6 +23,23 @@ async function getAllTransactions (){
 
 
 
+
+async function getTransactionByCause(cause_id){
+    console.log("data / getTransactionByCause is invoked");
+
+    if(!ObjectId.isValid(cause_id)) return {success: false, data: null, message:['The given ID is invalid']};
+    
+    try{
+        const transaction_by_cause =  await Transaction.find({cause_id: cause_id});
+        return {success: true, data: transaction_by_cause, message:[]};
+    }catch (err){
+        console.log('error: ', err);
+        return {success: false, data: null, message:['An error occured while fetching causes']};
+    }
+}
+
+
+
 async function createTransaction ({amount_paid, message, date_created, source_id, destination_id,cause_id}){
     console.log("data / createTransaction() is invoked")
     console.log({amount_paid, message, date_created, source_id, destination_id,cause_id});
@@ -147,5 +164,6 @@ export {
     getInboundUserTransactions,
     getOutboundUserTransactions,
     updateTransaction,
-    saveHashToDatabase
+    saveHashToDatabase,
+    getTransactionByCause
 }

@@ -80,12 +80,12 @@ const logInAPI = async (req, res) => {
     const logIn_result = await logIn({email:req.body.email, password:req.body.password});
     if(logIn_result.success){
         const token = logIn_result.data;
-        res.cookie("token", token, {
-            withCredentials: true,
-            httpOnly: false,
-            secure: false,
-            path:'/'
-        });
+        // res.cookie("token", token, {
+        //     withCredentials: true,
+        //     httpOnly: false,
+        //     secure: false,
+        //     path:'/'
+        // });
         res.status(201).json(logIn_result)
     }else{
         const response = {

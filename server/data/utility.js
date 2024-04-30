@@ -17,14 +17,14 @@ function createSecretToken(id){
 };
 
 async function verifyToken(req,res){
-    // console.log(req)
-    console.log(req.cookie)
-    console.log(req.headers.cookie)
-    if (!req.headers.cookie) {
+    const token = req.body.token
+    // console.log(req.cookie)
+    // console.log(req.headers.cookie)
+    if (!req.body.token) {
         return res.json({ status: false, message: "No token provided" });
     }
       // Extract the token from the Authorization header
-    const token = req.headers.cookie.split('=')[1];
+    // const token = req.headers.cookie.split('=')[1];
     console.log(token)
 //   Should be changed to a key
     jwt.verify(token, 'LOGGED_IN_AS_USER', async (err, data) => {

@@ -70,15 +70,15 @@ async function logIn ({email, password}){
     if (!auth) return res.json({message:'Incorrect password or email' }) 
 
     // This code block can be placed in the user_api_controller
-    const token = createSecretToken(user._id);
-    console.log(token);
+    // const token = createSecretToken(user._id);
+    // console.log(token);
     // res.cookie("token", token, {
     //     withCredentials: true,
     //     httpOnly: false,
     // });
 
     // res.status(201).json({ message: "User logged in successfully", success: true });
-    return {success: true, data: token, message: ['User logged in successfully']}
+    return {success: true, data: user._id, message: ['User logged in successfully']}
 }
 
 

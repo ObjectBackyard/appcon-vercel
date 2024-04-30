@@ -82,7 +82,8 @@ import{
   createTransactionAPI,
   getInboundUserTransactionsAPI,
   getOutboundUserTransactionsAPI,
-  updateTransactionAPI
+  updateTransactionAPI,
+  getTransactionByCauseAPI
 }from './transaction_api_controller.js'
 
 
@@ -167,6 +168,7 @@ router.post("/api/create-transaction",createTransactionAPI);
 router.get("/api/get-inbound-transactions",getInboundUserTransactionsAPI);
 router.get("/api/get-outbound-transactions",getOutboundUserTransactionsAPI);
 router.put("/api/update-transaction",updateTransactionAPI);
+router.get("/api/get-transaction-by-cause/:cause_id", getTransactionByCauseAPI)
 
 
 // Blockchain API

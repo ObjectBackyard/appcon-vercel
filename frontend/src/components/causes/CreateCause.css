@@ -1,0 +1,69 @@
+/* CreateCause.css */
+
+h1{
+    font-weight: normal;
+}
+
+/* CreateCause.css */
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+  }
+  
+  .form-container {
+    padding: 20px;
+  }
+  
+  .form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .form-title {
+    font-size: 32px;
+    color: #1C4E93;
+    margin-bottom: 20px;
+  }
+  
+  .form-input {
+    margin-bottom: 20px;
+  }
+  
+  .input-label {
+    font-size: 18px;
+    color: #1C4E93;
+    margin-bottom: 5px;
+  }
+  
+  .input-field {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    background-color: #fff;
+  }
+
+
+  
+  .form-button {
+    width: 100%;
+    padding: 10px;
+    color: #fff;
+    border: none;
+    border-radius: 30px;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  
+  /* .form-button:hover {
+    background-color: #154072;
+  } */
+  

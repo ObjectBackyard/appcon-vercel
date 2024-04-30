@@ -11,7 +11,8 @@ import{
     getInboundUserTransactions,
     getOutboundUserTransactions,
     updateTransaction,
-    saveHashToDatabase
+    saveHashToDatabase,
+    getTransactionByCause
 } from '../data/transaction_controller.js';
 
 const getAllTransactionsAPI = async (req, res) => {
@@ -21,6 +22,26 @@ const getAllTransactionsAPI = async (req, res) => {
         success: getAllTransactions_result.success,
         data: getAllTransactions_result.data,
         message: getAllTransactions_result.message,
+    }
+
+    res.send(response)
+}
+
+
+
+
+
+// Added getTransactionByCause operation
+const getTransactionByCauseAPI = async(req,res) =>{
+
+    const {cause_id} = req.params
+
+    const getTransactionByCause_result = await getTransactionByCause(cause_id)
+
+    const response = {
+        success: getTransactionByCause_result.success,
+        data: getTransactionByCause_result.data,
+        message: getTransactionByCause_result.message,
     }
 
     res.send(response)
@@ -107,5 +128,6 @@ export{
     createTransactionAPI,
     getInboundUserTransactionsAPI,
     getOutboundUserTransactionsAPI,
-    updateTransactionAPI
+    updateTransactionAPI,
+    getTransactionByCauseAPI
 }
