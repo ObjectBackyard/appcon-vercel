@@ -1,0 +1,194 @@
+[{
+  "_id": {
+    "$oid": "6625a122fc13111100000001"
+  },
+  "first_name": "Bradan",
+  "last_name": "Commings",
+  "password": "$2a$04$7gL/IxRCb7PaXw7KbQQF9.hnjfITMbQNq/m7lDuhMuvr1/5VCFLMm",
+  "bio": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus. Pellentesque eget nunc.",
+  "email": "bcommings0@dailymail.co.uk",
+  "stripe_id": "acct_1P7wnzFTnsqvhUCc",
+  "contact_number": "09161234567",
+  "user_image": "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677405/sample.jpg",
+  "date_created": {
+    "$date": "2024-01-01T12:17:14.000Z"
+  },
+  "user_type": "Moderator",
+  "suspension_end_date": null,
+  "existence_status": "Active"
+},
+{
+  "_id": {
+    "$oid": "6625a122fc13a11110000002"
+  },
+  "first_name": "Athena",
+  "last_name": "Guiden",
+  "password": "$2a$04$ADwNtx7xCkq8M8MWq4PFiOvFcBVODiVnOmeBOwEo5xexTlb6m8qgi",
+  "bio": "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus.",
+  "email": "aguiden1@ehow.com",
+  "stripe_id": "acct_1P7tHOFTLu1LMGD0",
+  "contact_number": "09081234567",
+  "user_image": "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677442/cld-sample.jpg",
+  "date_created": {
+    "$date": "2024-01-02T12:17:14.000Z"
+  },
+  "user_type": "User",
+  "suspension_end_date": null,
+  "existence_status": "Active"
+},
+{
+  "_id": {
+    "$oid": "6625a122fc13a11110000003"
+  },
+  "first_name": "Danit",
+  "last_name": "Girardengo",
+  "password": "$2a$04$YFLuQ78xHTIJonVLIbDQM.u/fvIUdEfBZDJgcRdaK3hqNGy.6xbp2",
+  "bio": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim.",
+  "email": "dgirardengo2@odnoklassniki.ru",
+  "stripe_id": "acct_1OlVyJ2VVp3v7wQP",
+  "contact_number": "09167894561",
+  "user_image": "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677405/sample.jpg",
+  "date_created": {
+    "$date": "2024-01-03T12:17:14.000Z"
+  },
+  "user_type": "User",
+  "suspension_end_date": null,
+  "existence_status": "Deleted"
+},
+{
+  "_id": {
+    "$oid": "6625a122fc13a11110000004"
+  },
+  "first_name": "Sadella",
+  "last_name": "Ioan",
+  "password": "$2a$04$QbsRzOX/q0RvsyduyihJvuRPdHT0yfcJlwNOz9giwwFBYxMGq0GtO",
+  "bio": "Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
+  "email": "sioan3@indiegogo.com",
+  "stripe_id": null,
+  "contact_number": "09084567892",
+  "user_image": "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677442/cld-sample.jpg",
+  "date_created": {
+    "$date": "2024-01-04T12:17:14.000Z"
+  },
+  "user_type": "Moderator",
+  "suspension_end_date": null,
+  "existence_status": "Deleted"
+},
+{
+  "_id": {
+    "$oid": "6625a122fc13a11110000005"
+  },
+  "first_name": "Rachele",
+  "last_name": "Probat",
+  "password": "$2a$04$lVa7RqNm/cIE2n.6lzL9CuIyKwFoFDZh8qCP9si4kLSI3ydplCgV6",
+  "bio": "In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.",
+  "email": "rprobat4@google.co.jp",
+  "stripe_id": null,
+  "contact_number": "09164561234",
+  "user_image": "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677405/sample.jpg",
+  "date_created": {
+    "$date": "2024-01-05T12:17:14.000Z"
+  },
+  "user_type": "User",
+  "suspension_end_date": null,
+  "existence_status": "Deleted"
+},
+{
+  "_id": {
+    "$oid": "6625a122fc13a11110000006"
+  },
+  "first_name": "Eamon",
+  "last_name": "O'Sharry",
+  "password": "$2a$04$7kG6KCXpqtFpJYmKt2H9Q.cXxs1sMjfCmVxCs8RSKEKJtdOhDHp9S",
+  "bio": "Donec ut dolor.",
+  "email": "eosharry5@woothemes.com",
+  "stripe_id": null,
+  "contact_number": "09081597534",
+  "user_image": "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677442/cld-sample.jpg",
+  "date_created": {
+    "$date": "2024-01-06T12:17:14.000Z"
+  },
+  "user_type": "Moderator",
+  "suspension_end_date": null,
+  "existence_status": "Active"
+},
+{
+  "_id": {
+    "$oid": "6625a122fc13a11110000007"
+  },
+  "first_name": "Hildagard",
+  "last_name": "Dies",
+  "password": "$2a$04$PhlOaSse.m8gSXzIZ7eqxeOzvL9gq/SRxhoLRdqSVEnPQ1tE4cHnO",
+  "bio": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",
+  "email": "hdies6@slideshare.net",
+  "stripe_id": "acct_1P7wnzFTnsqvhUCc",
+  "contact_number": "09165974682",
+  "user_image": "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677405/sample.jpg",
+  "date_created": {
+    "$date": "2024-01-07T12:17:14.000Z"
+  },
+  "user_type": "User",
+  "suspension_end_date": {
+    "$date": "2024-05-02T18:47:31.000Z"
+  },
+  "existence_status": "Active"
+},
+{
+  "_id": {
+    "$oid": "6625a122fc13a11110000008"
+  },
+  "first_name": "Ariana",
+  "last_name": "Yve",
+  "password": "$2a$04$VdYVp1Y9w3XLmYN3vy6pWeTCxUdCFeM7zHKVQ91HNYHpLYm03Obd.",
+  "bio": "Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
+  "email": "ayve7@eventbrite.com",
+  "stripe_id": null,
+  "contact_number": "09957894512",
+  "user_image": "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677442/cld-sample.jpg",
+  "date_created": {
+    "$date": "2024-01-08T12:17:14.000Z"
+  },
+  "user_type": "User",
+  "suspension_end_date": {
+    "$date": "2024-05-02T18:47:31.000Z"
+  },
+  "existence_status": "Active"
+},
+{
+  "_id": {
+    "$oid": "6625a122fc13a11110000009"
+  },
+  "first_name": "Dag",
+  "last_name": "Scones",
+  "password": "$2a$04$telP6qiM48bQDAPD4oLSuu1GSC/aPScboUjdWDs3pJZ2xDNn3JVc2",
+  "bio": "In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue.",
+  "email": "dscones8@uiuc.edu",
+  "stripe_id": null,
+  "contact_number": "09954988895",
+  "user_image": "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677405/sample.jpg",
+  "date_created": {
+    "$date": "2024-01-09T12:17:14.000Z"
+  },
+  "user_type": "Admin",
+  "suspension_end_date": null,
+  "existence_status": "Active"
+},
+{
+  "_id": {
+    "$oid": "6625a122fc13a11110000010"
+  },
+  "first_name": "Joey",
+  "last_name": "Slimon",
+  "password": "$2a$04$yiqtyOw/Gx/9gUHwVqGALOobZZ3XOr.t4GVYOB2eOO2OV2KUAVe7S",
+  "bio": "Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
+  "email": "jslimon9@buzzfeed.com",
+  "stripe_id": "acct_1P7tHOFTLu1LMGD0",
+  "contact_number": "09067417897",
+  "user_image": "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677442/cld-sample.jpg",
+  "date_created": {
+    "$date": "2024-01-10T12:17:14.000Z"
+  },
+  "user_type": "User",
+  "suspension_end_date": null,
+  "existence_status": "Active"
+}]

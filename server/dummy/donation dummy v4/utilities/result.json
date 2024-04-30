@@ -1,0 +1,2510 @@
+[
+  {
+    "//": "-------------------------------------------------- Displacement --------------------------------------------------"
+  },
+  {
+    "_id": {
+      "$oid": "6625a4f3fc13333300000001"
+    },
+    "goal_amount": 30000,
+    "user_id": {
+      "$oid": "6625a122fc13111100000001"
+    },
+    "title": "Providing Legal Aid to Displaced Persons",
+    "post_content": "Support our initiative to provide legal aid and advocacy services to displaced persons who face legal challenges and barriers to justice. Your donation will help fund legal clinics, pro bono representation, and advocacy campaigns to protect the rights and interests of displaced individuals and families. Together, we can ensure that displaced persons have access to the legal support they need to rebuild their lives and seek justice.",
+    "date_created": {
+      "$date": "2024-02-01T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Displacement",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "6625a4f3fc13333300000002"
+    },
+    "goal_amount": 27000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000002"
+    },
+    "title": "Ensuring Access to Healthcare for Displaced Communities",
+    "post_content": "Join us in ensuring access to healthcare for displaced communities who often face barriers to medical services and support. Your donation will help fund mobile clinics, medical supplies, and healthcare outreach programs to provide essential medical care to displaced individuals and families in need. Together, we can ensure that no one is left behind when it comes to accessing healthcare, regardless of their displacement status.",
+    "date_created": {
+      "$date": "2024-02-02T12:17:14.000Z"
+    },
+    "urgency": "Low",
+    "type": "Displacement",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "6625a4f3fc13333300000003"
+    },
+    "goal_amount": 9500,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000003"
+    },
+    "title": "Supporting Displaced LGBTQ+ Refugees",
+    "post_content": "Support our efforts to provide refuge and support to LGBTQ+ individuals who have been displaced due to persecution, discrimination, or violence. Your donation will help fund LGBTQ+ shelters, advocacy programs, and community support services to help displaced individuals rebuild their lives in safety and acceptance. Together, we can create a more inclusive and supportive environment for displaced LGBTQ+ refugees.",
+    "date_created": {
+      "$date": "2024-02-03T12:17:14.000Z"
+    },
+    "urgency": "Low",
+    "type": "Displacement",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "6625a4f3fc13333300000004"
+    },
+    "goal_amount": 13000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000007"
+    },
+    "title": "Emergency Shelter for Displaced Families",
+    "post_content": "Help us provide emergency shelter and housing assistance to families who have been displaced by conflicts, natural disasters, or other crises. Your donation will enable us to set up temporary shelters, distribute emergency supplies, and offer support services to help displaced families meet their basic needs and stay safe during times of crisis. Together, we can provide a lifeline to those who have been forced to flee their homes.",
+    "date_created": {
+      "$date": "2024-02-04T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Displacement",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "6625a4f3fc13333300000005"
+    },
+    "goal_amount": 18000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Creating Safe Spaces for Displaced Women",
+    "post_content": "Join us in creating safe spaces for displaced women who are vulnerable to violence, exploitation, and abuse. Your donation will support initiatives such as women's shelters, counseling services, and legal assistance to help displaced women rebuild their lives and reclaim their dignity. Together, we can provide refuge and support to women who have been forced to flee their homes in search of safety and security.",
+    "date_created": {
+      "$date": "2024-02-05T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Displacement",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "6625a4f3fc13333300000006"
+    },
+    "goal_amount": 20000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Empowering Refugees Through Entrepreneurship",
+    "post_content": "Support our initiative to empower displaced individuals and refugees through entrepreneurship and economic opportunity. Your contribution will help provide business training, microloans, and mentorship to help refugees start and grow their own businesses, enabling them to build sustainable livelihoods and regain independence. Together, we can provide displaced individuals with the tools and support they need to thrive in their new communities.",
+    "date_created": {
+      "$date": "2024-02-06T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Displacement",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg"
+    ],
+    "existence_status": "Deleted"
+  },
+  {
+    "_id": {
+      "$oid": "6625a4f3fc13333300000007"
+    },
+    "goal_amount": 8600,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Rebuilding Lives After Displacement",
+    "post_content": "Join us in supporting displaced individuals and families as they rebuild their lives and communities. Your donation will help provide housing assistance, job training, and livelihood support to help displaced persons regain stability and self-sufficiency. Together, we can empower those affected by displacement to overcome adversity and build a better future for themselves and their families.",
+    "date_created": {
+      "$date": "2024-02-07T12:17:14.000Z"
+    },
+    "urgency": "High",
+    "type": "Displacement",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "6625a4f3fc13333300000008"
+    },
+    "goal_amount": 3000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Supporting Displaced Children's Education",
+    "post_content": "Support our initiative to provide education and support services to displaced children who have been uprooted from their homes due to conflict, persecution, or natural disasters. Your donation will help fund school supplies, educational programs, and psychosocial support to help these children cope with trauma and continue their education despite the challenges they face. Together, we can give displaced children the opportunity to build a brighter future.",
+    "date_created": {
+      "$date": "2024-02-08T12:17:14.000Z"
+    },
+    "urgency": "High",
+    "type": "Displacement",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "6625a4f3fc13333300000009"
+    },
+    "goal_amount": 9200,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Emergency Relief for Displacement Crisis",
+    "post_content": "Help us respond to the urgent displacement crisis affecting communities around the world. Your contribution will enable us to provide emergency relief supplies such as food, water, and medical assistance to those who have been forced to flee their homes due to violence, persecution, or environmental disasters. With your support, we can offer immediate aid and support to those in need.",
+    "date_created": {
+      "$date": "2024-02-09T12:17:14.000Z"
+    },
+    "urgency": "Low",
+    "type": "Displacement",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "6625a4f3fc13333300000010"
+    },
+    "goal_amount": 2300,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Hope for Displaced Families",
+    "post_content": "Join us in providing relief and support for families who have been displaced due to natural disasters, conflicts, or economic hardships. Your donation will go towards providing essential supplies, temporary shelter, and long-term assistance to help these families rebuild their lives and regain stability. Together, we can make a difference and offer hope to those who have lost everything.",
+    "date_created": {
+      "$date": "2024-02-10T12:17:14.000Z"
+    },
+    "urgency": "High",
+    "type": "Displacement",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "//": "-------------------------------------------------- Medical --------------------------------------------------"
+  },
+  {
+    "_id": {
+      "$oid": "0225a4f3fc13333300000001"
+    },
+    "goal_amount": 30000,
+    "user_id": {
+      "$oid": "6625a122fc13111100000001"
+    },
+    "title": "Supporting Cancer Patients and Survivors",
+    "post_content": "Join us in providing support and resources to cancer patients and survivors as they navigate their journey from diagnosis to recovery. Your donation will help fund patient navigation services, support groups, and survivorship programs that offer practical assistance, emotional support, and hope to those affected by cancer. Together, we can empower cancer patients and survivors to live life to the fullest and thrive beyond their diagnosis.",
+    "date_created": {
+      "$date": "2024-02-01T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Medical",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0225a4f3fc13333300000002"
+    },
+    "goal_amount": 27000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000002"
+    },
+    "title": "Medical Outreach in Remote Areas",
+    "post_content": "Help us bring medical care and health services to remote and underserved communities around the world. Your donation will support medical outreach missions, mobile clinics, and telemedicine programs that deliver essential healthcare services to people living in isolated areas with limited access to medical facilities. Together, we can bridge the gap in healthcare access and ensure that no one is left behind.",
+    "date_created": {
+      "$date": "2024-02-02T12:17:14.000Z"
+    },
+    "urgency": "Low",
+    "type": "Medical",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0225a4f3fc13333300000003"
+    },
+    "goal_amount": 9500,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000003"
+    },
+    "title": "Assistive Devices for People with Disabilities",
+    "post_content": "Support our initiative to provide assistive devices and technologies to people with disabilities, enabling them to live more independent and fulfilling lives. Your donation will help fund wheelchairs, hearing aids, prosthetic limbs, and other assistive devices that can enhance mobility, communication, and overall well-being for individuals with disabilities. Together, we can break down barriers and create a more inclusive society for people of all abilities.",
+    "date_created": {
+      "$date": "2024-02-03T12:17:14.000Z"
+    },
+    "urgency": "Low",
+    "type": "Medical",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0225a4f3fc13333300000004"
+    },
+    "goal_amount": 13000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000007"
+    },
+    "title": "Medical Training for Healthcare Workers",
+    "post_content": "Join us in funding medical training programs and scholarships for aspiring healthcare workers in underserved communities. Your donation will help cover the cost of tuition, textbooks, and clinical rotations, enabling aspiring doctors, nurses, and other medical professionals to pursue their education and serve their communities. Together, we can empower the next generation of healthcare leaders and improve access to quality medical care for all.",
+    "date_created": {
+      "$date": "2024-02-04T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Medical",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0225a4f3fc13333300000005"
+    },
+    "goal_amount": 18000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Emergency Medical Relief for Disaster Zones",
+    "post_content": "Support our emergency medical relief efforts to provide urgent medical care and assistance to communities affected by natural disasters, conflicts, and humanitarian crises. Your donation will help deploy medical teams, supply essential medications and equipment, and establish temporary medical facilities to treat the injured and provide life-saving care in the midst of chaos and devastation. Together, we can provide critical support to those in urgent need of medical assistance.",
+    "date_created": {
+      "$date": "2024-02-05T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Medical",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0225a4f3fc13333300000006"
+    },
+    "goal_amount": 20000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Mental Health Support for Healthcare Workers",
+    "post_content": "Help us provide mental health support and resources to healthcare workers who are experiencing burnout, stress, and trauma as a result of their work on the frontlines of the COVID-19 pandemic. Your donation will fund counseling services, peer support groups, and wellness programs designed to help healthcare workers cope with the emotional toll of their work and build resilience. Together, we can support the mental health and well-being of those who care for us.",
+    "date_created": {
+      "$date": "2024-02-06T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Medical",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg"
+    ],
+    "existence_status": "Deleted"
+  },
+  {
+    "_id": {
+      "$oid": "0225a4f3fc13333300000007"
+    },
+    "goal_amount": 8600,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Medical Research for Rare Diseases",
+    "post_content": "Join us in supporting medical research efforts to find treatments and cures for rare and neglected diseases that affect millions of people worldwide. Your donation will help fund groundbreaking research projects, clinical trials, and scientific advancements aimed at improving diagnosis, treatment, and prevention strategies for rare diseases. Together, we can make progress towards ending the suffering caused by these often overlooked conditions.",
+    "date_created": {
+      "$date": "2024-02-07T12:17:14.000Z"
+    },
+    "urgency": "High",
+    "type": "Medical",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0225a4f3fc13333300000008"
+    },
+    "goal_amount": 3000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Access to Healthcare for Underserved Communities",
+    "post_content": "Support our efforts to expand access to healthcare for underserved communities who face barriers to medical services and support. Your donation will help fund community health clinics, mobile medical units, and outreach programs to provide essential healthcare services to those in need. Together, we can ensure that everyone has access to the medical care they deserve, regardless of their economic status or background.",
+    "date_created": {
+      "$date": "2024-02-08T12:17:14.000Z"
+    },
+    "urgency": "High",
+    "type": "Medical",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0225a4f3fc13333300000009"
+    },
+    "goal_amount": 9200,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Funding Life-Saving Treatments for Children",
+    "post_content": "Join us in funding life-saving medical treatments for children battling serious illnesses and conditions. Your donation will help cover the cost of medications, surgeries, and therapies that can make a life-changing difference for these young patients and their families. Together, we can give children facing medical challenges the chance to thrive and enjoy a brighter future.",
+    "date_created": {
+      "$date": "2024-02-09T12:17:14.000Z"
+    },
+    "urgency": "Low",
+    "type": "Medical",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0225a4f3fc13333300000010"
+    },
+    "goal_amount": 2300,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Medical Supplies for Frontline Workers",
+    "post_content": "Support our campaign to provide essential medical supplies and equipment to frontline healthcare workers battling the COVID-19 pandemic. Your donation will help purchase personal protective equipment (PPE), ventilators, and other critical supplies to keep healthcare workers safe and ensure they have the tools they need to save lives. Together, we can support those who are risking their lives to care for others and help flatten the curve.",
+    "date_created": {
+      "$date": "2024-02-10T12:17:14.000Z"
+    },
+    "urgency": "High",
+    "type": "Medical",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "//": "-------------------------------------------------- Animal --------------------------------------------------"
+  },
+  {
+    "_id": {
+      "$oid": "0325a4f3fc13333300000001"
+    },
+    "goal_amount": 30000,
+    "user_id": {
+      "$oid": "6625a122fc13111100000001"
+    },
+    "title": "Conservation of Marine Life and Habitats",
+    "post_content": "Help us protect marine life and preserve ocean habitats for future generations by supporting our marine conservation efforts. Your donation will fund research, conservation projects, and advocacy campaigns aimed at safeguarding endangered species, restoring coral reefs, and combating threats such as pollution, overfishing, and habitat destruction. Together, we can protect the diversity and beauty of our oceans and ensure a healthy planet for all.",
+    "date_created": {
+      "$date": "2024-02-01T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Animal",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0325a4f3fc13333300000002"
+    },
+    "goal_amount": 27000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000002"
+    },
+    "title": "Rescue and Rehoming for Stray Animals",
+    "post_content": "Support our efforts to rescue, rehabilitate, and find loving homes for stray and homeless animals in our communities. Your donation will help cover the cost of medical care, vaccinations, spaying/neutering, and adoption programs to give stray animals a second chance at life. Together, we can make our communities safer and more compassionate for both animals and humans alike.",
+    "date_created": {
+      "$date": "2024-02-02T12:17:14.000Z"
+    },
+    "urgency": "Low",
+    "type": "Animal",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0325a4f3fc13333300000003"
+    },
+    "goal_amount": 9500,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000003"
+    },
+    "title": "Animal-Assisted Therapy for Vulnerable Populations",
+    "post_content": "Join us in supporting animal-assisted therapy programs that harness the healing power of animals to support individuals with physical, emotional, and developmental challenges. Your donation will help fund therapy animals, training programs, and therapy sessions that provide comfort, companionship, and therapeutic benefits to children, veterans, seniors, and others in need. Together, we can improve the lives of both humans and animals through the transformative power of animal-assisted therapy.",
+    "date_created": {
+      "$date": "2024-02-03T12:17:14.000Z"
+    },
+    "urgency": "Low",
+    "type": "Animal",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0325a4f3fc13333300000004"
+    },
+    "goal_amount": 13000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000007"
+    },
+    "title": "Supporting Wildlife Rehabilitation Centers",
+    "post_content": "Support our efforts to rehabilitate injured, orphaned, and sick wildlife and release them back into their natural habitats. Your donation will help fund wildlife rehabilitation centers, veterinary care, and specialized equipment needed to care for a diverse range of wildlife species. Together, we can give wildlife a second chance at life and contribute to the conservation of our natural ecosystems.",
+    "date_created": {
+      "$date": "2024-02-04T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Animal",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0325a4f3fc13333300000005"
+    },
+    "goal_amount": 18000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Sanctuary for Rescued Farm Animals",
+    "post_content": "Help us provide a safe and loving sanctuary for rescued farm animals who have been neglected, abused, or abandoned. Your donation will help cover the cost of food, shelter, and medical care for animals such as cows, pigs, chickens, and goats, giving them a forever home where they can live out their lives in peace and happiness. Together, we can give farm animals the compassionate care they deserve and raise awareness about the ethical treatment of animals.",
+    "date_created": {
+      "$date": "2024-02-05T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Animal",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0325a4f3fc13333300000006"
+    },
+    "goal_amount": 20000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Spay and Neuter Programs to Reduce Overpopulation",
+    "post_content": "Join us in supporting spay and neuter programs aimed at reducing pet overpopulation and preventing unnecessary euthanasia of homeless animals. Your donation will help fund low-cost or free spay/neuter surgeries, outreach efforts, and community education programs to promote responsible pet ownership and reduce the number of unwanted litters. Together, we can make a significant impact in controlling the pet population and saving lives.",
+    "date_created": {
+      "$date": "2024-02-06T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Animal",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg"
+    ],
+    "existence_status": "Deleted"
+  },
+  {
+    "_id": {
+      "$oid": "0325a4f3fc13333300000007"
+    },
+    "goal_amount": 8600,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Emergency Relief for Animals in Crisis",
+    "post_content": "Support our emergency relief efforts to provide urgent assistance and care to animals affected by natural disasters, wildfires, and other crises. Your donation will help deploy rescue teams, provide veterinary care, and distribute food and supplies to animals in distress, ensuring they receive the help they need during times of crisis. Together, we can be a lifeline for animals in need and help them recover and rebuild.",
+    "date_created": {
+      "$date": "2024-02-07T12:17:14.000Z"
+    },
+    "urgency": "High",
+    "type": "Animal",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0325a4f3fc13333300000008"
+    },
+    "goal_amount": 3000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Animal Welfare Education and Advocacy",
+    "post_content": "Help us raise awareness and advocate for the welfare of animals by supporting our education and advocacy initiatives. Your donation will fund outreach programs, educational resources, and advocacy campaigns aimed at promoting compassion, responsible pet ownership, and the protection of animals from cruelty and exploitation. Together, we can create a more compassionate and humane world for all living beings.",
+    "date_created": {
+      "$date": "2024-02-08T12:17:14.000Z"
+    },
+    "urgency": "High",
+    "type": "Animal",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0325a4f3fc13333300000009"
+    },
+    "goal_amount": 9200,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Protecting Endangered Species Habitat",
+    "post_content": "Join us in protecting the habitat of endangered species and preserving biodiversity for future generations. Your donation will support habitat restoration projects, wildlife conservation efforts, and anti-poaching initiatives aimed at safeguarding the homes of endangered animals around the world. Together, we can ensure that these magnificent creatures have a fighting chance for survival in their natural habitats.",
+    "date_created": {
+      "$date": "2024-02-09T12:17:14.000Z"
+    },
+    "urgency": "Low",
+    "type": "Animal",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0325a4f3fc13333300000010"
+    },
+    "goal_amount": 2300,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Rescue and Rehabilitation for Abandoned Animals",
+    "post_content": "Support our mission to rescue and rehabilitate abandoned and neglected animals, providing them with the care and love they deserve. Your donation will help cover veterinary expenses, shelter costs, and food for animals in need, giving them a second chance at life. Together, we can make a difference in the lives of these innocent creatures and find them forever homes where they can thrive.",
+    "date_created": {
+      "$date": "2024-02-10T12:17:14.000Z"
+    },
+    "urgency": "High",
+    "type": "Animal",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "//": "-------------------------------------------------- Environment --------------------------------------------------"
+  },
+  {
+    "_id": {
+      "$oid": "0425a4f3fc13333300000001"
+    },
+    "goal_amount": 30000,
+    "user_id": {
+      "$oid": "6625a122fc13111100000001"
+    },
+    "title": "Advocating for Climate Action and Policy Change",
+    "post_content": "Join us in advocating for bold climate action and policy change at the local, national, and international levels to address the urgent threat of climate change. Your donation will support grassroots organizing, advocacy campaigns, and lobbying efforts aimed at promoting renewable energy, reducing greenhouse gas emissions, and transitioning to a low-carbon economy. Together, we can hold policymakers accountable and shape a brighter, more sustainable future for our planet.",
+    "date_created": {
+      "$date": "2024-02-01T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Environment",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0425a4f3fc13333300000002"
+    },
+    "goal_amount": 27000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000002"
+    },
+    "title": "Promoting Sustainable Cities and Communities",
+    "post_content": "Help us build sustainable cities and communities that prioritize environmental conservation, social equity, and economic prosperity for all residents. Your donation will support urban planning initiatives, green infrastructure projects, and community development programs that create livable, resilient, and inclusive cities. Together, we can transform our urban environments into vibrant hubs of sustainability and opportunity.",
+    "date_created": {
+      "$date": "2024-02-02T12:17:14.000Z"
+    },
+    "urgency": "Low",
+    "type": "Environment",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0425a4f3fc13333300000003"
+    },
+    "goal_amount": 9500,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000003"
+    },
+    "title": "Clean Water Access for All",
+    "post_content": "Support our mission to provide clean and safe drinking water to communities around the world who lack access to this basic human right. Your donation will fund water purification projects, well drilling initiatives, and sanitation programs that improve public health, empower women and girls, and protect ecosystems. Together, we can ensure that everyone has access to clean water and sanitation, essential elements for a healthy and prosperous future.",
+    "date_created": {
+      "$date": "2024-02-03T12:17:14.000Z"
+    },
+    "urgency": "Low",
+    "type": "Environment",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0425a4f3fc13333300000004"
+    },
+    "goal_amount": 13000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000007"
+    },
+    "title": "Protecting Rainforests for Climate and Biodiversity",
+    "post_content": "Join us in protecting the world's rainforests, vital ecosystems that provide habitat for countless species, regulate the climate, and support indigenous communities. Your donation will fund rainforest conservation projects, land protection efforts, and advocacy campaigns aimed at combating deforestation, illegal logging, and land degradation. Together, we can preserve the irreplaceable beauty and biodiversity of our planet's rainforests for generations to come.",
+    "date_created": {
+      "$date": "2024-02-04T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Environment",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0425a4f3fc13333300000005"
+    },
+    "goal_amount": 18000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Promoting Sustainable Agriculture",
+    "post_content": "Help us promote sustainable agriculture practices that protect the environment, support local farmers, and ensure food security for future generations. Your donation will support initiatives such as regenerative farming, organic agriculture, and agroforestry projects that promote soil health, conserve water, and reduce greenhouse gas emissions. Together, we can build a more resilient and sustainable food system that nourishes people and the planet.",
+    "date_created": {
+      "$date": "2024-02-05T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Environment",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0425a4f3fc13333300000006"
+    },
+    "goal_amount": 20000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Protecting Endangered Species and Habitats",
+    "post_content": "Support our efforts to protect endangered species and their habitats from threats such as habitat loss, poaching, and climate change. Your donation will fund conservation projects, habitat restoration efforts, and wildlife protection initiatives aimed at safeguarding the future of iconic species and preserving biodiversity for future generations. Together, we can make a difference in the fight to protect our planet's most vulnerable creatures and ecosystems.",
+    "date_created": {
+      "$date": "2024-02-06T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Environment",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg"
+    ],
+    "existence_status": "Deleted"
+  },
+  {
+    "_id": {
+      "$oid": "0425a4f3fc13333300000007"
+    },
+    "goal_amount": 8600,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Combatting Plastic Pollution",
+    "post_content": "Join us in the fight against plastic pollution by supporting initiatives that reduce plastic waste, promote recycling, and advocate for sustainable alternatives to single-use plastics. Your donation will fund cleanup projects, community recycling programs, and education campaigns aimed at raising awareness about the environmental impact of plastic pollution and inspiring behavior change. Together, we can protect our planet from the scourge of plastic pollution and create a cleaner, healthier world.",
+    "date_created": {
+      "$date": "2024-02-07T12:17:14.000Z"
+    },
+    "urgency": "High",
+    "type": "Environment",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0425a4f3fc13333300000008"
+    },
+    "goal_amount": 3000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Protecting Oceans and Marine Life",
+    "post_content": "Help us protect our oceans and marine ecosystems by supporting initiatives that promote marine conservation, combat plastic pollution, and preserve marine biodiversity. Your donation will fund ocean cleanup efforts, marine protected areas, and education programs aimed at raising awareness about the importance of healthy oceans and sustainable fishing practices. Together, we can safeguard the health and beauty of our oceans for future generations to enjoy.",
+    "date_created": {
+      "$date": "2024-02-08T12:17:14.000Z"
+    },
+    "urgency": "High",
+    "type": "Environment",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0425a4f3fc13333300000009"
+    },
+    "goal_amount": 9200,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Clean Energy Access for Communities in Need",
+    "post_content": "Support our efforts to provide clean and renewable energy solutions to communities in need, empowering them to thrive while reducing their carbon footprint. Your donation will help fund solar panel installations, wind turbines, and energy efficiency initiatives that provide access to reliable and sustainable energy sources, improve air quality, and mitigate the impacts of climate change. Together, we can build a more equitable and sustainable future for all.",
+    "date_created": {
+      "$date": "2024-02-09T12:17:14.000Z"
+    },
+    "urgency": "Low",
+    "type": "Environment",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0425a4f3fc13333300000010"
+    },
+    "goal_amount": 2300,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Reforestation for a Greener Future",
+    "post_content": "Join us in planting trees and restoring forests to combat climate change, preserve biodiversity, and create a healthier planet for future generations. Your donation will support tree planting initiatives, habitat restoration projects, and community engagement efforts aimed at restoring degraded landscapes and expanding green spaces. Together, we can make a tangible impact in the fight against deforestation and promote a sustainable future for all.",
+    "date_created": {
+      "$date": "2024-02-10T12:17:14.000Z"
+    },
+    "urgency": "High",
+    "type": "Environment",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "//": "-------------------------------------------------- Education --------------------------------------------------"
+  },
+  {
+    "_id": {
+      "$oid": "0525a4f3fc13333300000001"
+    },
+    "goal_amount": 30000,
+    "user_id": {
+      "$oid": "6625a122fc13111100000001"
+    },
+    "title": "Career Development and Vocational Training",
+    "post_content": "Join us in providing career development and vocational training programs that equip students with the skills, knowledge, and confidence they need to succeed in the workforce. Your donation will fund job training workshops, internship opportunities, and career counseling services that help students explore career pathways, develop essential skills, and access meaningful employment opportunities. Together, we can empower students to achieve their career goals and build a brighter future for themselves and their communities.",
+    "date_created": {
+      "$date": "2024-02-01T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Education",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0525a4f3fc13333300000002"
+    },
+    "goal_amount": 27000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000002"
+    },
+    "title": "Environmental Education for Sustainability",
+    "post_content": "Help us educate students about environmental sustainability, conservation, and stewardship through hands-on learning experiences and environmental education programs. Your donation will fund outdoor education trips, nature camps, and environmental curriculum development that inspire students to become responsible stewards of the planet and take action to protect the environment. Together, we can empower the next generation to build a more sustainable and resilient future for our planet.",
+    "date_created": {
+      "$date": "2024-02-02T12:17:14.000Z"
+    },
+    "urgency": "Low",
+    "type": "Education",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0525a4f3fc13333300000003"
+    },
+    "goal_amount": 9500,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000003"
+    },
+    "title": "Special Education Support and Inclusion",
+    "post_content": "Support our efforts to provide support and resources to students with special needs and promote inclusive education for all. Your donation will fund special education programs, assistive technologies, and teacher training initiatives that create a supportive and inclusive learning environment where every student can thrive. Together, we can break down barriers, celebrate diversity, and ensure that every student receives a quality education that meets their unique needs.",
+    "date_created": {
+      "$date": "2024-02-03T12:17:14.000Z"
+    },
+    "urgency": "Low",
+    "type": "Education",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0525a4f3fc13333300000004"
+    },
+    "goal_amount": 13000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000007"
+    },
+    "title": "Arts Education for Creative Expression",
+    "post_content": "Join us in supporting arts education programs that nurture creativity, self-expression, and cultural enrichment in schools and communities. Your donation will fund art classes, music lessons, theater workshops, and visual arts programs that inspire creativity, boost confidence, and provide students with valuable skills for personal and professional growth. Together, we can ensure that every student has access to the transformative power of the arts.",
+    "date_created": {
+      "$date": "2024-02-04T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Education",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0525a4f3fc13333300000005"
+    },
+    "goal_amount": 18000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Promoting Literacy and Reading Programs",
+    "post_content": "Help us promote literacy and instill a love of reading in children and adults by supporting literacy programs, libraries, and reading initiatives. Your donation will fund book donations, reading workshops, storytelling events, and literacy campaigns that improve literacy skills, foster a lifelong love of learning, and expand access to books and educational resources for all. Together, we can unlock the power of literacy to transform lives and build stronger communities.",
+    "date_created": {
+      "$date": "2024-02-05T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Education",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0525a4f3fc13333300000006"
+    },
+    "goal_amount": 20000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Educational Technology for Remote Learning",
+    "post_content": "Support our efforts to provide educational technology and digital resources to students and teachers for remote learning. Your donation will fund the purchase of laptops, tablets, internet connectivity, and educational software that enable students to continue learning remotely, especially in communities with limited access to traditional classrooms. Together, we can bridge the digital divide and ensure that all students have access to quality education, regardless of their location or circumstances.",
+    "date_created": {
+      "$date": "2024-02-06T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Education",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg"
+    ],
+    "existence_status": "Deleted"
+  },
+  {
+    "_id": {
+      "$oid": "0525a4f3fc13333300000007"
+    },
+    "goal_amount": 8600,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Empowering Girls Through Education",
+    "post_content": "Join us in empowering girls through education by supporting programs and initiatives that promote gender equality, girls' education, and women's empowerment. Your donation will fund scholarships, mentorship programs, and leadership training opportunities that help girls overcome barriers to education and fulfill their potential as future leaders and change-makers. Together, we can ensure that every girl has the opportunity to receive a quality education and unlock her full potential.",
+    "date_created": {
+      "$date": "2024-02-07T12:17:14.000Z"
+    },
+    "urgency": "High",
+    "type": "Education",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0525a4f3fc13333300000008"
+    },
+    "goal_amount": 3000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Expanding Access to Higher Education",
+    "post_content": "Help us expand access to higher education for students from underrepresented backgrounds by supporting scholarships, financial aid programs, and college readiness initiatives. Your donation will help break down barriers to higher education and empower talented students to pursue their academic dreams and achieve their career aspirations. Together, we can create a more inclusive and equitable education system that opens doors to opportunity for all.",
+    "date_created": {
+      "$date": "2024-02-08T12:17:14.000Z"
+    },
+    "urgency": "High",
+    "type": "Education",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0525a4f3fc13333300000009"
+    },
+    "goal_amount": 9200,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "STEM Education for the Next Generation",
+    "post_content": "Support our initiative to promote STEM (Science, Technology, Engineering, and Mathematics) education and inspire the next generation of innovators, problem solvers, and leaders. Your donation will fund STEM programs, workshops, and hands-on learning experiences that ignite curiosity, foster creativity, and prepare students for success in the digital age. Together, we can equip students with the skills and knowledge they need to thrive in STEM fields and make meaningful contributions to society.",
+    "date_created": {
+      "$date": "2024-02-09T12:17:14.000Z"
+    },
+    "urgency": "Low",
+    "type": "Education",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0525a4f3fc13333300000010"
+    },
+    "goal_amount": 2300,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Supporting Underprivileged Students' Education",
+    "post_content": "Join us in supporting underprivileged students by providing access to quality education, resources, and opportunities. Your donation will fund scholarships, school supplies, tutoring programs, and educational initiatives aimed at breaking the cycle of poverty and empowering students to reach their full potential. Together, we can create a brighter future for all children, regardless of their socioeconomic background.",
+    "date_created": {
+      "$date": "2024-02-10T12:17:14.000Z"
+    },
+    "urgency": "High",
+    "type": "Education",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "//": "-------------------------------------------------- Nonprofit --------------------------------------------------"
+  },
+  {
+    "_id": {
+      "$oid": "0625a4f3fc13333300000001"
+    },
+    "goal_amount": 30000,
+    "user_id": {
+      "$oid": "6625a122fc13111100000001"
+    },
+    "title": "Nonprofit Mental Health and Wellness Initiatives",
+    "post_content": "Join us in supporting nonprofit organizations that are dedicated to promoting mental health and well-being in our communities. Your donation will fund programs, services, and resources that provide support, education, and advocacy for individuals and families affected by mental illness, trauma, and emotional distress. Together, we can break down stigma, increase access to mental health care, and create supportive communities where everyone can thrive.",
+    "date_created": {
+      "$date": "2024-02-01T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Nonprofit",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0625a4f3fc13333300000002"
+    },
+    "goal_amount": 27000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000002"
+    },
+    "title": "Nonprofit Arts and Culture Support",
+    "post_content": "Support our efforts to provide funding and resources to nonprofit arts and culture organizations that enrich our communities and enhance our quality of life. Your donation will help fund grants, performances, exhibitions, and educational programs that promote artistic expression, cultural diversity, and creative innovation. Together, we can ensure that arts and culture thrive as vital components of our society and contribute to the well-being of individuals and communities alike.",
+    "date_created": {
+      "$date": "2024-02-02T12:17:14.000Z"
+    },
+    "urgency": "Low",
+    "type": "Nonprofit",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0625a4f3fc13333300000003"
+    },
+    "goal_amount": 9500,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000003"
+    },
+    "title": "Nonprofit Resilience and Crisis Response",
+    "post_content": "Help us strengthen the resilience of nonprofit organizations and support their ability to respond effectively to crises and emergencies. Your donation will fund emergency preparedness training, crisis response plans, and resilience-building initiatives that enable nonprofits to weather challenges such as natural disasters, economic downturns, and public health emergencies. Together, we can ensure that nonprofits remain resilient, adaptable, and capable of serving their communities in times of need.",
+    "date_created": {
+      "$date": "2024-02-03T12:17:14.000Z"
+    },
+    "urgency": "Low",
+    "type": "Nonprofit",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0625a4f3fc13333300000004"
+    },
+    "goal_amount": 13000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000007"
+    },
+    "title": "Nonprofit Advocacy and Policy Reform",
+    "post_content": "Join us in supporting nonprofit advocacy and policy reform efforts that advance social justice, human rights, and systemic change. Your donation will fund advocacy campaigns, lobbying efforts, and grassroots organizing initiatives that mobilize communities, influence decision-makers, and promote policies that create a more equitable and just society. Together, we can amplify the voices of the marginalized and advocate for policies that address root causes of inequality and injustice.",
+    "date_created": {
+      "$date": "2024-02-04T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Nonprofit",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0625a4f3fc13333300000005"
+    },
+    "goal_amount": 18000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Nonprofit Innovation Fund",
+    "post_content": "Support our initiative to establish an innovation fund for nonprofit organizations, providing seed funding and support for innovative ideas and approaches that have the potential to drive social change and address pressing challenges. Your donation will fund grants, fellowships, and incubator programs that empower nonprofits to experiment, iterate, and scale innovative solutions that create lasting impact. Together, we can foster a culture of innovation within the nonprofit sector and catalyze positive change in our communities.",
+    "date_created": {
+      "$date": "2024-02-05T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Nonprofit",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0625a4f3fc13333300000006"
+    },
+    "goal_amount": 20000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Nonprofit Collaboration Network",
+    "post_content": "Help us build a network of collaboration among nonprofit organizations, fostering partnerships, sharing resources, and maximizing impact. Your donation will support the creation of platforms, forums, and networking events that bring nonprofits together to exchange ideas, collaborate on projects, and leverage their collective strengths to address complex social challenges. Together, we can build a stronger, more connected nonprofit community that drives positive change on a global scale.",
+    "date_created": {
+      "$date": "2024-02-06T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Nonprofit",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg"
+    ],
+    "existence_status": "Deleted"
+  },
+  {
+    "_id": {
+      "$oid": "0625a4f3fc13333300000007"
+    },
+    "goal_amount": 8600,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Technology Grants for Nonprofits",
+    "post_content": "Join us in providing technology grants to nonprofit organizations to enhance their capacity, efficiency, and impact through the use of technology. Your donation will fund grants for software, hardware, and IT infrastructure upgrades that enable nonprofits to streamline operations, improve communication, and better serve their communities. Together, we can harness the power of technology to empower nonprofits and amplify their impact in the digital age.",
+    "date_created": {
+      "$date": "2024-02-07T12:17:14.000Z"
+    },
+    "urgency": "High",
+    "type": "Nonprofit",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0625a4f3fc13333300000008"
+    },
+    "goal_amount": 3000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Nonprofit Sustainability Fund",
+    "post_content": "Support our initiative to create a sustainability fund for nonprofit organizations, providing them with financial stability and resilience in the face of uncertainty. Your donation will help build an endowment fund that generates ongoing revenue to support the operational needs, programs, and long-term sustainability of nonprofits, ensuring they can continue their important work for years to come. Together, we can strengthen the nonprofit sector and support organizations that are driving positive change.",
+    "date_created": {
+      "$date": "2024-02-08T12:17:14.000Z"
+    },
+    "urgency": "High",
+    "type": "Nonprofit",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0625a4f3fc13333300000009"
+    },
+    "goal_amount": 9200,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Capacity Building for Nonprofits",
+    "post_content": "Help us build the capacity of nonprofit organizations by providing resources, training, and support to strengthen their impact and effectiveness. Your donation will fund capacity-building programs, leadership development initiatives, and technical assistance services that empower nonprofits to better serve their communities and achieve their missions. Together, we can ensure that nonprofits have the tools and resources they need to thrive and make a meaningful difference.",
+    "date_created": {
+      "$date": "2024-02-09T12:17:14.000Z"
+    },
+    "urgency": "Low",
+    "type": "Nonprofit",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0625a4f3fc13333300000010"
+    },
+    "goal_amount": 2300,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Supporting Nonprofit Organizations",
+    "post_content": "Join us in supporting nonprofit organizations that are making a difference in communities around the world. Your donation will help fund programs, projects, and initiatives that address important social, environmental, and humanitarian issues, from poverty alleviation to environmental conservation to education and beyond. Together, we can amplify the impact of nonprofits and create positive change that benefits people and the planet.",
+    "date_created": {
+      "$date": "2024-02-10T12:17:14.000Z"
+    },
+    "urgency": "High",
+    "type": "Nonprofit",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "//": "-------------------------------------------------- Community --------------------------------------------------"
+  },
+  {
+    "_id": {
+      "$oid": "0725a4f3fc13333300000001"
+    },
+    "goal_amount": 30000,
+    "user_id": {
+      "$oid": "6625a122fc13111100000001"
+    },
+    "title": "Community Education and Literacy Program",
+    "post_content": "Support our community education and literacy program, which provides free tutoring, homework help, and literacy support to children and adults in our community. Your donation will fund tutoring materials, literacy resources, and educational enrichment activities that empower individuals to succeed academically and build brighter futures. Together, we can ensure that everyone in our community has access to the educational support they need to thrive.",
+    "date_created": {
+      "$date": "2024-02-01T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Community",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0725a4f3fc13333300000002"
+    },
+    "goal_amount": 27000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000002"
+    },
+    "title": "Community Arts and Culture Festival",
+    "post_content": "Help us organize a community arts and culture festival that celebrates the diversity, creativity, and talent of our community. Your donation will support event planning, artist performances, cultural exhibits, and interactive activities that bring people together to celebrate and showcase our community's rich cultural heritage. Together, we can foster unity, appreciation, and pride in our community's arts and culture scene.",
+    "date_created": {
+      "$date": "2024-02-02T12:17:14.000Z"
+    },
+    "urgency": "Low",
+    "type": "Community",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0725a4f3fc13333300000003"
+    },
+    "goal_amount": 9500,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000003"
+    },
+    "title": "Community Emergency Relief Fund",
+    "post_content": "Join us in creating a community emergency relief fund to provide financial assistance and support to individuals and families facing unexpected crises and emergencies. Your donation will help provide short-term financial assistance for essential needs such as housing, utilities, and medical expenses, helping people get back on their feet during difficult times. Together, we can provide a safety net for our neighbors and ensure that no one in our community is left behind.",
+    "date_created": {
+      "$date": "2024-02-03T12:17:14.000Z"
+    },
+    "urgency": "Low",
+    "type": "Community",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0725a4f3fc13333300000004"
+    },
+    "goal_amount": 13000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000007"
+    },
+    "title": "Community Health and Wellness Fair",
+    "post_content": "Support our community health and wellness fair, which provides free health screenings, wellness workshops, and resources to promote physical and mental well-being for residents of all ages. Your donation will help cover event expenses, including venue rental, supplies, and outreach materials, ensuring that everyone in our community has access to essential health services and information. Together, we can empower individuals and families to prioritize their health and lead healthier lives.",
+    "date_created": {
+      "$date": "2024-02-04T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Community",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0725a4f3fc13333300000005"
+    },
+    "goal_amount": 18000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Community Cleanup and Beautification Project",
+    "post_content": "Help us beautify and improve our community by supporting a cleanup and beautification project that engages volunteers in cleaning up litter, planting trees, and revitalizing public spaces. Your donation will fund cleanup supplies, landscaping materials, and volunteer coordination efforts that make our community cleaner, greener, and more vibrant. Together, we can take pride in our community and create a more welcoming environment for all.",
+    "date_created": {
+      "$date": "2024-02-05T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Community",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0725a4f3fc13333300000006"
+    },
+    "goal_amount": 20000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Community Youth Mentoring Program",
+    "post_content": "Join us in supporting a youth mentoring program that pairs adult mentors with young people in our community to provide guidance, support, and positive role modeling. Your donation will fund mentor training, program activities, and resources that empower young people to reach their full potential and build bright futures. Together, we can inspire and empower the next generation of leaders in our community.",
+    "date_created": {
+      "$date": "2024-02-06T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Community",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg"
+    ],
+    "existence_status": "Deleted"
+  },
+  {
+    "_id": {
+      "$oid": "0725a4f3fc13333300000007"
+    },
+    "goal_amount": 8600,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Supporting Small Businesses in Our Community",
+    "post_content": "Support our initiative to provide financial assistance and support to small businesses in our community that have been impacted by economic challenges. Your donation will help provide grants, loans, and technical assistance to local businesses, helping them weather the storm and recover from setbacks. Together, we can preserve the unique character and vitality of our community by supporting our small businesses.",
+    "date_created": {
+      "$date": "2024-02-07T12:17:14.000Z"
+    },
+    "urgency": "High",
+    "type": "Community",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0725a4f3fc13333300000008"
+    },
+    "goal_amount": 3000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Community Garden Expansion",
+    "post_content": "Help us expand our community garden to provide more opportunities for people to grow their own fresh produce, learn about gardening, and connect with nature. Your donation will support the expansion of garden plots, installation of irrigation systems, and educational programs that teach gardening skills and promote healthy eating habits. Together, we can cultivate a stronger, more resilient community through the power of gardening.",
+    "date_created": {
+      "$date": "2024-02-08T12:17:14.000Z"
+    },
+    "urgency": "High",
+    "type": "Community",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0725a4f3fc13333300000009"
+    },
+    "goal_amount": 9200,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Building a Community Center",
+    "post_content": "Join us in building a community center that will serve as a hub for social activities, educational programs, and support services for people of all ages in our community. Your donation will help fund the construction, renovation, and outfitting of the center, creating a welcoming space where community members can come together, connect, and build relationships. Together, we can strengthen our community and create a brighter future for all.",
+    "date_created": {
+      "$date": "2024-02-09T12:17:14.000Z"
+    },
+    "urgency": "Low",
+    "type": "Community",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0725a4f3fc13333300000010"
+    },
+    "goal_amount": 2300,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Community Food Pantry Support",
+    "post_content": "Support our community food pantry as we work to provide nutritious food and essential supplies to individuals and families facing food insecurity. Your donation will help us stock our pantry shelves, purchase fresh produce, and provide emergency food assistance to those in need. Together, we can ensure that everyone in our community has access to the food they need to thrive.",
+    "date_created": {
+      "$date": "2024-02-10T12:17:14.000Z"
+    },
+    "urgency": "High",
+    "type": "Community",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "//": "-------------------------------------------------- Fire --------------------------------------------------"
+  },
+  {
+    "_id": {
+      "$oid": "0825a4f3fc13333300000001"
+    },
+    "goal_amount": 30000,
+    "user_id": {
+      "$oid": "6625a122fc13111100000001"
+    },
+    "title": "Community Fire Recovery Fund",
+    "post_content": "Join us in establishing a community fire recovery fund to provide financial assistance and support to individuals, families, and businesses affected by wildfires. Your donation will help provide grants, loans, and other forms of financial assistance to help people rebuild their homes, replace lost belongings, and recover from financial losses incurred as a result of wildfires. Together, we can provide a lifeline to those in need and support the long-term recovery of communities impacted by wildfires.",
+    "date_created": {
+      "$date": "2024-02-01T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Fire",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0825a4f3fc13333300000002"
+    },
+    "goal_amount": 27000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000002"
+    },
+    "title": "Fire Ecology and Restoration Research",
+    "post_content": "Support research efforts to better understand the ecological impacts of wildfires and develop strategies for restoring ecosystems and promoting resilience in fire-affected areas. Your donation will fund scientific research, field studies, and monitoring programs that advance our knowledge of fire ecology and inform restoration and management practices in fire-prone landscapes. Together, we can enhance our ability to coexist with wildfires and protect the health and diversity of our natural ecosystems.",
+    "date_created": {
+      "$date": "2024-02-02T12:17:14.000Z"
+    },
+    "urgency": "Low",
+    "type": "Fire",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0825a4f3fc13333300000003"
+    },
+    "goal_amount": 9500,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000003"
+    },
+    "title": "Community Resilience and Recovery",
+    "post_content": "Help us build community resilience and support long-term recovery efforts in areas impacted by wildfires. Your donation will fund community-led initiatives, economic revitalization programs, and infrastructure projects that help communities recover and rebuild stronger in the aftermath of devastating wildfires. Together, we can support the resiliency of communities affected by wildfires and help them rebuild their lives and livelihoods.",
+    "date_created": {
+      "$date": "2024-02-03T12:17:14.000Z"
+    },
+    "urgency": "Low",
+    "type": "Fire",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0825a4f3fc13333300000004"
+    },
+    "goal_amount": 13000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000007"
+    },
+    "title": "Emergency Assistance for Fire Evacuees",
+    "post_content": "Support our efforts to provide emergency assistance and support to individuals and families who have been evacuated from their homes due to wildfires. Your donation will help provide temporary shelter, transportation, meals, and other essential services to evacuees, ensuring they have a safe place to stay and access to basic necessities during this challenging time. Together, we can provide comfort and relief to those displaced by wildfires and help them navigate the challenges of evacuation.",
+    "date_created": {
+      "$date": "2024-02-04T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Fire",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0825a4f3fc13333300000005"
+    },
+    "goal_amount": 18000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Health and Wellness Support for Fire Survivors",
+    "post_content": "Join us in providing health and wellness support for individuals and families who have survived wildfires, including access to medical care, mental health services, and trauma-informed support. Your donation will help fund counseling services, support groups, and wellness programs that assist survivors in coping with the emotional and psychological toll of experiencing a wildfire, as well as addressing physical health needs. Together, we can support the healing and recovery of fire survivors and help them rebuild their lives.",
+    "date_created": {
+      "$date": "2024-02-05T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Fire",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0825a4f3fc13333300000006"
+    },
+    "goal_amount": 20000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Assistance for Animal Fire Victims",
+    "post_content": "Support our efforts to provide assistance and care for animals affected by wildfires, including pets, livestock, and wildlife. Your donation will help fund animal rescue operations, veterinary care, and temporary shelter for animals displaced by wildfires, ensuring they receive the help and support they need during times of crisis. Together, we can be a lifeline for animals in need and help them recover and rebuild their lives after devastating wildfires.",
+    "date_created": {
+      "$date": "2024-02-06T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Fire",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg"
+    ],
+    "existence_status": "Deleted"
+  },
+  {
+    "_id": {
+      "$oid": "0825a4f3fc13333300000007"
+    },
+    "goal_amount": 8600,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Community Fire Preparedness and Prevention",
+    "post_content": "Help us improve community preparedness and prevent wildfires by supporting fire prevention education, mitigation efforts, and preparedness initiatives. Your donation will fund outreach programs, community workshops, and wildfire prevention campaigns that empower residents to take proactive steps to reduce the risk of wildfires and protect their homes and neighborhoods. Together, we can build resilient communities that are better equipped to face the threat of wildfires.",
+    "date_created": {
+      "$date": "2024-02-07T12:17:14.000Z"
+    },
+    "urgency": "High",
+    "type": "Fire",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0825a4f3fc13333300000008"
+    },
+    "goal_amount": 3000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Supporting Firefighters and First Responders",
+    "post_content": "Join us in supporting the brave firefighters and first responders who put their lives on the line to protect our communities from wildfires. Your donation will help provide essential equipment, training, and resources for fire departments and emergency response agencies, ensuring they have the tools they need to effectively combat wildfires and save lives. Together, we can show our gratitude and support for those who selflessly serve on the front lines of wildfires.",
+    "date_created": {
+      "$date": "2024-02-08T12:17:14.000Z"
+    },
+    "urgency": "High",
+    "type": "Fire",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0825a4f3fc13333300000009"
+    },
+    "goal_amount": 9200,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Reforestation After Wildfires",
+    "post_content": "Help us restore and replant forests that have been ravaged by wildfires, replenishing habitats for wildlife, mitigating erosion, and reducing the risk of future fires. Your donation will fund reforestation projects, tree planting initiatives, and habitat restoration efforts in areas impacted by wildfires, ensuring that ecosystems can recover and thrive once again. Together, we can heal the scars left by wildfires and restore the beauty and biodiversity of our forests.",
+    "date_created": {
+      "$date": "2024-02-09T12:17:14.000Z"
+    },
+    "urgency": "Low",
+    "type": "Fire",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0825a4f3fc13333300000010"
+    },
+    "goal_amount": 2300,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Emergency Relief for Wildfire Victims",
+    "post_content": "Support our emergency relief efforts to provide immediate assistance to individuals and families affected by wildfires. Your donation will help provide shelter, food, clothing, and other essential supplies to those displaced by the fires, as well as support for firefighters and first responders working tirelessly to contain the blaze. Together, we can provide critical support to those in need and help communities recover and rebuild in the aftermath of devastating wildfires.",
+    "date_created": {
+      "$date": "2024-02-10T12:17:14.000Z"
+    },
+    "urgency": "High",
+    "type": "Fire",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "//": "-------------------------------------------------- Typhoon --------------------------------------------------"
+  },
+  {
+    "_id": {
+      "$oid": "0925a4f3fc13333300000001"
+    },
+    "goal_amount": 30000,
+    "user_id": {
+      "$oid": "6625a122fc13111100000001"
+    },
+    "title": "Environmental Restoration After Typhoons",
+    "post_content": "Join us in restoring and protecting ecosystems that have been damaged by typhoons, including mangroves, coral reefs, and forests, which provide vital protection against storm surges and flooding. Your donation will fund restoration projects, reforestation efforts, and habitat rehabilitation initiatives that restore biodiversity, enhance ecosystem resilience, and mitigate the impacts of future typhoons on vulnerable coastal and terrestrial ecosystems. Together, we can protect our planet and communities from the impacts of typhoons by restoring and conserving our natural environment.",
+    "date_created": {
+      "$date": "2024-02-01T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Typhoon",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0925a4f3fc13333300000002"
+    },
+    "goal_amount": 27000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000002"
+    },
+    "title": "Typhoon Relief for Indigenous Communities",
+    "post_content": "Support our efforts to provide relief and support to indigenous communities affected by typhoons, who often face disproportionate impacts and barriers to recovery. Your donation will help provide culturally sensitive assistance, including emergency supplies, shelter, and support for traditional livelihoods, ensuring that indigenous communities have the resources and support they need to recover and rebuild in the aftermath of typhoons. Together, we can stand in solidarity with indigenous communities and support their resilience in the face of typhoon threats.",
+    "date_created": {
+      "$date": "2024-02-02T12:17:14.000Z"
+    },
+    "urgency": "Low",
+    "type": "Typhoon",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0925a4f3fc13333300000003"
+    },
+    "goal_amount": 9500,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000003"
+    },
+    "title": "Emergency Food and Water Distribution",
+    "post_content": "Help us provide emergency food and water distribution to communities affected by typhoons, ensuring that people have access to nutritious meals and clean drinking water during times of crisis. Your donation will fund food distribution centers, water purification systems, and supply chains that deliver essential supplies to typhoon-affected areas, providing relief and support to those in need. Together, we can ensure that no one goes hungry or thirsty in the aftermath of a typhoon.",
+    "date_created": {
+      "$date": "2024-02-03T12:17:14.000Z"
+    },
+    "urgency": "Low",
+    "type": "Typhoon",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0925a4f3fc13333300000004"
+    },
+    "goal_amount": 13000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000007"
+    },
+    "title": "Typhoon-Resistant Infrastructure Projects",
+    "post_content": "Support our efforts to build typhoon-resistant infrastructure, such as storm-resistant shelters, flood barriers, and resilient housing, to protect communities from the destructive impacts of typhoons. Your donation will fund infrastructure projects and engineering solutions that strengthen the resilience of communities and reduce the risk of damage and loss of life during typhoon events. Together, we can build a safer and more secure future for communities vulnerable to typhoons.",
+    "date_created": {
+      "$date": "2024-02-04T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Typhoon",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0925a4f3fc13333300000005"
+    },
+    "goal_amount": 18000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Community Resilience Building Workshops",
+    "post_content": "Join us in organizing community resilience building workshops that empower residents to prepare for and respond to typhoons effectively. Your donation will fund workshops, training sessions, and educational programs that teach disaster preparedness skills, emergency response techniques, and risk reduction strategies, empowering communities to become more resilient in the face of typhoon threats. Together, we can save lives and minimize the impact of typhoons on vulnerable communities.",
+    "date_created": {
+      "$date": "2024-02-05T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Typhoon",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0925a4f3fc13333300000006"
+    },
+    "goal_amount": 20000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Healthcare and Medical Aid for Typhoon Survivors",
+    "post_content": "Help us provide healthcare services and medical aid to survivors of typhoons, including access to emergency medical care, medications, and mental health support. Your donation will fund mobile medical clinics, healthcare supplies, and counseling services that address the immediate and long-term health needs of typhoon survivors, ensuring they receive the care and support they need to recover and rebuild. Together, we can provide essential healthcare services to those affected by typhoons and help them heal.",
+    "date_created": {
+      "$date": "2024-02-06T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Typhoon",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg"
+    ],
+    "existence_status": "Deleted"
+  },
+  {
+    "_id": {
+      "$oid": "0925a4f3fc13333300000007"
+    },
+    "goal_amount": 8600,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Assistance for Typhoon-Displaced Families",
+    "post_content": "Support our efforts to provide assistance and support to families who have been displaced from their homes due to typhoons, including temporary shelter, food, and essential supplies. Your donation will help provide emergency relief to displaced families, ensuring they have access to basic necessities and support as they navigate the challenges of displacement. Together, we can provide comfort and relief to those affected by typhoons and help them rebuild their lives.",
+    "date_created": {
+      "$date": "2024-02-07T12:17:14.000Z"
+    },
+    "urgency": "High",
+    "type": "Typhoon",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0925a4f3fc13333300000008"
+    },
+    "goal_amount": 3000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Supporting Typhoon-Resilient Communities",
+    "post_content": "Join us in supporting initiatives that help communities become more resilient to the impacts of typhoons, including early warning systems, disaster preparedness training, and infrastructure improvements. Your donation will fund community-based projects and capacity-building efforts that empower residents to better withstand and respond to typhoons, reducing the risk of loss of life and property damage. Together, we can build stronger, safer, and more resilient communities in the face of typhoon threats.",
+    "date_created": {
+      "$date": "2024-02-08T12:17:14.000Z"
+    },
+    "urgency": "High",
+    "type": "Typhoon",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0925a4f3fc13333300000009"
+    },
+    "goal_amount": 9200,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Reconstruction and Recovery After Typhoons",
+    "post_content": "Help us rebuild homes, schools, and infrastructure that have been destroyed or damaged by typhoons, providing essential support for communities to recover and rebuild. Your donation will fund reconstruction projects, repair efforts, and infrastructure upgrades in typhoon-affected areas, ensuring that people have safe and resilient places to live, work, and learn. Together, we can help communities bounce back stronger after the devastation of typhoons.",
+    "date_created": {
+      "$date": "2024-02-09T12:17:14.000Z"
+    },
+    "urgency": "Low",
+    "type": "Typhoon",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "0925a4f3fc13333300000010"
+    },
+    "goal_amount": 2300,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Emergency Relief for Typhoon Victims",
+    "post_content": "Support our emergency relief efforts to provide immediate assistance to individuals and communities affected by typhoons. Your donation will help provide shelter, food, clean water, and medical supplies to those displaced by the typhoon, as well as support for search and rescue operations and humanitarian aid efforts. Together, we can provide critical support to those in need and help communities recover and rebuild in the aftermath of devastating typhoons.",
+    "date_created": {
+      "$date": "2024-02-10T12:17:14.000Z"
+    },
+    "urgency": "High",
+    "type": "Typhoon",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "//": "-------------------------------------------------- Flood --------------------------------------------------"
+  },
+  {
+    "_id": {
+      "$oid": "1025a4f3fc13333300000001"
+    },
+    "goal_amount": 30000,
+    "user_id": {
+      "$oid": "6625a122fc13111100000001"
+    },
+    "title": "Flood Resilient Housing Initiatives",
+    "post_content": "Join us in promoting flood-resilient housing initiatives that strengthen the ability of communities to withstand and recover from floods. Your donation will fund the construction of flood-resistant homes, retrofitting of existing structures, and community-led housing projects that incorporate resilient design principles and reduce vulnerability to flood hazards. Together, we can provide safe and secure housing for vulnerable communities and mitigate the impacts of future floods.",
+    "date_created": {
+      "$date": "2024-02-01T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Flood",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "1025a4f3fc13333300000002"
+    },
+    "goal_amount": 27000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000002"
+    },
+    "title": "Support for Flood-Affected Farmers",
+    "post_content": "Support our efforts to provide assistance and support to farmers and agricultural communities affected by floods, including access to seeds, tools, and training to replant crops and restore livelihoods. Your donation will help provide agricultural inputs, technical assistance, and market linkages that enable farmers to recover from flood-related losses and rebuild their agricultural livelihoods. Together, we can support the resilience of farming communities and ensure food security in the aftermath of floods.",
+    "date_created": {
+      "$date": "2024-02-02T12:17:14.000Z"
+    },
+    "urgency": "Low",
+    "type": "Flood",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "1025a4f3fc13333300000003"
+    },
+    "goal_amount": 9500,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000003"
+    },
+    "title": "Flood Early Warning Systems",
+    "post_content": "Help us implement flood early warning systems that provide timely alerts and information to communities at risk of flooding, enabling them to take proactive measures to protect lives and property. Your donation will fund the installation of monitoring equipment, development of forecasting models, and establishment of communication networks that improve flood preparedness and response capabilities. Together, we can enhance community resilience and save lives by providing advance warning of flood events.",
+    "date_created": {
+      "$date": "2024-02-03T12:17:14.000Z"
+    },
+    "urgency": "Low",
+    "type": "Flood",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "1025a4f3fc13333300000004"
+    },
+    "goal_amount": 13000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000007"
+    },
+    "title": "Community Flood Relief Fund",
+    "post_content": "Join us in establishing a community flood relief fund to provide financial assistance and support to individuals, families, and businesses affected by floods. Your donation will help provide grants, loans, and other forms of financial assistance to help people rebuild their homes, replace lost belongings, and recover from financial losses incurred as a result of floods. Together, we can provide a lifeline to those in need and support the long-term recovery of communities impacted by floods.",
+    "date_created": {
+      "$date": "2024-02-04T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Flood",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "1025a4f3fc13333300000005"
+    },
+    "goal_amount": 18000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Clean Water Access After Floods",
+    "post_content": "Support our efforts to provide clean water access to communities affected by floods, ensuring that people have access to safe and reliable drinking water during times of crisis. Your donation will fund water purification systems, distribution networks, and hygiene promotion campaigns that prevent waterborne diseases and improve public health in flood-affected areas. Together, we can ensure that no one goes without clean water in the aftermath of a flood.",
+    "date_created": {
+      "$date": "2024-02-05T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Flood",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "1025a4f3fc13333300000006"
+    },
+    "goal_amount": 20000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Flood Recovery and Reconstruction Projects",
+    "post_content": "Help us rebuild homes, schools, and infrastructure that have been damaged or destroyed by floods, providing essential support for communities to recover and rebuild. Your donation will fund reconstruction projects, repair efforts, and infrastructure upgrades in flood-affected areas, ensuring that people have safe and resilient places to live, work, and learn. Together, we can help communities bounce back stronger after the devastation of floods.",
+    "date_created": {
+      "$date": "2024-02-06T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Flood",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg"
+    ],
+    "existence_status": "Deleted"
+  },
+  {
+    "_id": {
+      "$oid": "1025a4f3fc13333300000007"
+    },
+    "goal_amount": 8600,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Assistance for Flood-Affected Families",
+    "post_content": "Join us in providing assistance and support to families who have been affected by floods, including emergency shelter, food, clothing, and household supplies. Your donation will help provide immediate relief to families displaced by floods, ensuring they have access to basic necessities and support as they navigate the challenges of recovery. Together, we can provide comfort and relief to those affected by floods and help them rebuild their lives.",
+    "date_created": {
+      "$date": "2024-02-07T12:17:14.000Z"
+    },
+    "urgency": "High",
+    "type": "Flood",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "1025a4f3fc13333300000008"
+    },
+    "goal_amount": 3000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Community Flood Mitigation Projects",
+    "post_content": "Support our efforts to implement flood mitigation projects that reduce the risk of flooding and protect communities from the impacts of extreme weather events. Your donation will fund infrastructure improvements, such as flood barriers, drainage systems, and green infrastructure, as well as ecosystem restoration projects that enhance natural flood defenses. Together, we can build more resilient communities and reduce the risk of flood-related disasters.",
+    "date_created": {
+      "$date": "2024-02-08T12:17:14.000Z"
+    },
+    "urgency": "High",
+    "type": "Flood",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "1025a4f3fc13333300000009"
+    },
+    "goal_amount": 9200,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Flood Resilience and Preparedness Training",
+    "post_content": "Help us empower communities to become more resilient to floods by providing training, resources, and support for disaster preparedness and response. Your donation will fund workshops, training sessions, and educational programs that teach flood risk awareness, emergency planning, and evacuation procedures, empowering communities to better prepare for and respond to floods. Together, we can save lives and minimize the impact of floods on vulnerable communities.",
+    "date_created": {
+      "$date": "2024-02-09T12:17:14.000Z"
+    },
+    "urgency": "Low",
+    "type": "Flood",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "1025a4f3fc13333300000010"
+    },
+    "goal_amount": 2300,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Emergency Relief for Flood Victims",
+    "post_content": "Support our emergency relief efforts to provide immediate assistance to individuals and communities affected by floods. Your donation will help provide shelter, food, clean water, and medical supplies to those displaced by the floodwaters, as well as support for search and rescue operations and humanitarian aid efforts. Together, we can provide critical support to those in need and help communities recover and rebuild in the aftermath of devastating floods.",
+    "date_created": {
+      "$date": "2024-02-10T12:17:14.000Z"
+    },
+    "urgency": "High",
+    "type": "Flood",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "//": "-------------------------------------------------- Earthquake --------------------------------------------------"
+  },
+  {
+    "_id": {
+      "$oid": "1125a4f3fc13333300000001"
+    },
+    "goal_amount": 30000,
+    "user_id": {
+      "$oid": "6625a122fc13111100000001"
+    },
+    "title": "Earthquake Relief for Indigenous Communities",
+    "post_content": "Support our efforts to provide relief and support to indigenous communities affected by earthquakes, who often face unique challenges and cultural barriers to recovery. Your donation will help provide culturally sensitive assistance, including emergency supplies, shelter, and support for traditional livelihoods, ensuring that indigenous communities have the resources and support they need to recover and rebuild in the aftermath of earthquakes. Together, we can stand in solidarity with indigenous communities and support their resilience in the face of seismic hazards.",
+    "date_created": {
+      "$date": "2024-02-01T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Earthquake",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "1125a4f3fc13333300000002"
+    },
+    "goal_amount": 27000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000002"
+    },
+    "title": "Earthquake Hazard Mapping and Risk Assessment",
+    "post_content": "Support our efforts to conduct earthquake hazard mapping and risk assessment studies that identify vulnerable areas and inform disaster preparedness and mitigation strategies. Your donation will fund scientific research, data collection efforts, and modeling studies that assess seismic hazards, evaluate vulnerabilities, and develop actionable recommendations for reducing risk and enhancing resilience to earthquakes. Together, we can improve our understanding of earthquake risks and take proactive measures to protect lives and property in earthquake-prone regions.",
+    "date_created": {
+      "$date": "2024-02-02T12:17:14.000Z"
+    },
+    "urgency": "Low",
+    "type": "Earthquake",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "1125a4f3fc13333300000003"
+    },
+    "goal_amount": 9500,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000003"
+    },
+    "title": "Psychological Support for Earthquake Survivors",
+    "post_content": "Help us provide psychological support and counseling services to individuals and communities affected by earthquakes, helping them cope with trauma, grief, and emotional distress. Your donation will fund counseling programs, support groups, and mental health services that assist earthquake survivors in processing their experiences and rebuilding their resilience in the aftermath of disaster. Together, we can support the emotional well-being and recovery of earthquake survivors and help them rebuild their lives.",
+    "date_created": {
+      "$date": "2024-02-03T12:17:14.000Z"
+    },
+    "urgency": "Low",
+    "type": "Earthquake",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "1125a4f3fc13333300000004"
+    },
+    "goal_amount": 13000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000007"
+    },
+    "title": "Emergency Medical Care for Earthquake Victims",
+    "post_content": "Join us in providing emergency medical care and trauma support to earthquake victims, including triage services, surgical interventions, and critical care for the injured. Your donation will fund medical teams, mobile clinics, and emergency response units that deploy rapidly to earthquake-affected areas, providing life-saving medical care and support to those in need. Together, we can ensure that earthquake victims receive the timely and effective medical care they need to survive and recover.",
+    "date_created": {
+      "$date": "2024-02-04T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Earthquake",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "1125a4f3fc13333300000005"
+    },
+    "goal_amount": 18000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Earthquake-Resistant Building Projects",
+    "post_content": "Support our efforts to promote earthquake-resistant building practices and retrofitting of existing structures to mitigate the impact of earthquakes on buildings and infrastructure. Your donation will fund construction projects, engineering solutions, and community-based initiatives that strengthen the resilience of buildings and reduce the risk of damage and loss of life during earthquakes. Together, we can build safer and more resilient communities that are better prepared to withstand seismic hazards.",
+    "date_created": {
+      "$date": "2024-02-05T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Earthquake",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "1125a4f3fc13333300000006"
+    },
+    "goal_amount": 20000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Earthquake Recovery and Rehabilitation Programs",
+    "post_content": "Help us provide rehabilitation and support services to individuals who have been injured or disabled as a result of earthquakes, including access to medical care, rehabilitation therapy, and assistive devices. Your donation will fund medical clinics, rehabilitation centers, and support programs that assist earthquake survivors in recovering and rebuilding their lives after injury or disability. Together, we can support the healing and recovery of earthquake survivors and help them regain independence and quality of life.",
+    "date_created": {
+      "$date": "2024-02-06T12:17:14.000Z"
+    },
+    "urgency": "Middle",
+    "type": "Earthquake",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg"
+    ],
+    "existence_status": "Deleted"
+  },
+  {
+    "_id": {
+      "$oid": "1125a4f3fc13333300000007"
+    },
+    "goal_amount": 8600,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Supporting Earthquake-Affected Families",
+    "post_content": "Support our efforts to provide assistance and support to families who have been affected by earthquakes, including emergency shelter, food, clothing, and household supplies. Your donation will help provide immediate relief to families displaced by earthquakes, ensuring they have access to basic necessities and support as they navigate the challenges of recovery. Together, we can provide comfort and relief to those affected by earthquakes and help them rebuild their lives.",
+    "date_created": {
+      "$date": "2024-02-07T12:17:14.000Z"
+    },
+    "urgency": "High",
+    "type": "Earthquake",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "1125a4f3fc13333300000008"
+    },
+    "goal_amount": 3000,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Earthquake Resilience and Preparedness Training",
+    "post_content": "Join us in empowering communities to become more resilient to earthquakes by providing training, resources, and support for disaster preparedness and response. Your donation will fund workshops, training sessions, and educational programs that teach earthquake safety measures, emergency planning, and response techniques, empowering communities to better prepare for and respond to earthquakes. Together, we can save lives and minimize the impact of earthquakes on vulnerable communities.",
+    "date_created": {
+      "$date": "2024-02-08T12:17:14.000Z"
+    },
+    "urgency": "High",
+    "type": "Earthquake",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "1125a4f3fc13333300000009"
+    },
+    "goal_amount": 9200,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Reconstruction and Recovery After Earthquakes",
+    "post_content": "Help us rebuild homes, schools, hospitals, and infrastructure that have been destroyed or damaged by earthquakes, providing essential support for communities to recover and rebuild. Your donation will fund reconstruction projects, repair efforts, and infrastructure upgrades in earthquake-affected areas, ensuring that people have safe and resilient places to live, work, and access essential services. Together, we can help communities bounce back stronger after the devastation of earthquakes.",
+    "date_created": {
+      "$date": "2024-02-09T12:17:14.000Z"
+    },
+    "urgency": "Low",
+    "type": "Earthquake",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg"
+    ],
+    "existence_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "1125a4f3fc13333300000010"
+    },
+    "goal_amount": 2300,
+    "user_id": {
+      "$oid": "6625a122fc13a11110000010"
+    },
+    "title": "Emergency Relief for Earthquake Survivors",
+    "post_content": "Support our emergency relief efforts to provide immediate assistance to individuals and communities affected by earthquakes. Your donation will help provide shelter, food, clean water, medical supplies, and other essential relief items to those displaced by the earthquakes, as well as support for search and rescue operations and medical care for the injured. Together, we can provide critical support to those in need and help communities recover and rebuild in the aftermath of devastating earthquakes.",
+    "date_created": {
+      "$date": "2024-02-10T12:17:14.000Z"
+    },
+    "urgency": "High",
+    "type": "Earthquake",
+    "images": [
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-5.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-2.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677443/cld-sample-3.jpg",
+      "https://res.cloudinary.com/dwb0cfoc3/image/upload/v1713677444/cld-sample-4.jpg"
+    ],
+    "existence_status": "Active"
+  }
+]

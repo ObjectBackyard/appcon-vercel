@@ -1,0 +1,240 @@
+[{
+  "_id": {
+    "$oid": "661e6c0ffc13ae2b2aab89f5"
+  },
+  "transaction_hash": "$2a$04$jc2GQIae67XfTscLcj9..u9IYRicrwD9FbbHFY4EkJYdInYFZ4D9i",
+  "amount_paid": 8701.53,
+  "stripe_destination_id": "b40baa7a-9f5f-4d8e-b599-dcab2edf63f6",
+  "date_created": {
+    "$date": "2023-07-18T06:49:37.000Z"
+  },
+  "source_id": {
+    "$oid": "661e6c0ffc13ae2b2aab89f6"
+  },
+  "destination_id": {
+    "$oid": "661e6c0ffc13ae2b2aab89f7"
+  },
+  "cause_id": {
+    "$oid": "661e6c0ffc13ae2b2aab89f8"
+  }
+},
+{
+  "_id": {
+    "$oid": "661e6c0ffc13ae2b2aab89f9"
+  },
+  "transaction_hash": "$2a$04$zR8qrRk2MsCCawZHFm1QoOLmQP79b7hY3flsaS1UtDMcG/jY54Ufi",
+  "amount_paid": 7676.61,
+  "stripe_destination_id": "3076b197-55b5-4852-b96c-a2737deb0340",
+  "date_created": {
+    "$date": "2023-12-11T15:26:13.000Z"
+  },
+  "source_id": {
+    "$oid": "661e6c0ffc13ae2b2aab89fa"
+  },
+  "destination_id": {
+    "$oid": "661e6c0ffc13ae2b2aab89fb"
+  },
+  "cause_id": {
+    "$oid": "661e6c0ffc13ae2b2aab89fc"
+  }
+},
+{
+  "_id": {
+    "$oid": "661e6c0ffc13ae2b2aab89fd"
+  },
+  "transaction_hash": "$2a$04$Va5iPqgJbS2dsqw7LqPZv.n1vrer9w/SFCFakp0u57MnMRGMzg.uS",
+  "amount_paid": 6938.93,
+  "stripe_destination_id": "21793dbb-861c-40ae-b229-8d4507725afe",
+  "date_created": {
+    "$date": "2024-03-21T17:41:56.000Z"
+  },
+  "source_id": {
+    "$oid": "661e6c0ffc13ae2b2aab89fe"
+  },
+  "destination_id": {
+    "$oid": "661e6c0ffc13ae2b2aab89ff"
+  },
+  "cause_id": {
+    "$oid": "661e6c0ffc13ae2b2aab8a00"
+  }
+},
+{
+  "_id": {
+    "$oid": "661e6c0ffc13ae2b2aab8a01"
+  },
+  "transaction_hash": "$2a$04$qScLB/SxIRRIxzVoFPBDl.ChIfYj6Kqh0YJ2Q.oOBVeGTkhJAdPrq",
+  "amount_paid": 7390.55,
+  "stripe_destination_id": "091892cb-d567-4639-a75c-fac87c1a5455",
+  "date_created": {
+    "$date": "2023-11-20T19:22:55.000Z"
+  },
+  "source_id": {
+    "$oid": "661e6c0ffc13ae2b2aab8a02"
+  },
+  "destination_id": {
+    "$oid": "661e6c0ffc13ae2b2aab8a03"
+  },
+  "cause_id": {
+    "$oid": "661e6c0ffc13ae2b2aab8a04"
+  }
+},
+{
+  "_id": {
+    "$oid": "661e6c0ffc13ae2b2aab8a05"
+  },
+  "transaction_hash": "$2a$04$CuoSBe46OVXtoj1MpnPVT.mNQUpsHC2Da6e03P5X5ShN8VCsav..m",
+  "amount_paid": 3332.56,
+  "stripe_destination_id": "404607c2-3d80-417e-96db-6f84cb6c0913",
+  "date_created": {
+    "$date": "2024-03-02T12:31:58.000Z"
+  },
+  "source_id": {
+    "$oid": "661e6c0ffc13ae2b2aab8a06"
+  },
+  "destination_id": {
+    "$oid": "661e6c0ffc13ae2b2aab8a07"
+  },
+  "cause_id": {
+    "$oid": "661e6c0ffc13ae2b2aab8a08"
+  }
+},
+{
+  "_id": {
+    "$oid": "661e6c0ffc13ae2b2aab8a09"
+  },
+  "transaction_hash": "$2a$04$4oZ1V0LUz2jmR0sMV.GK/.la5mcrYPrTS4SRRLdb/.uki89MbDVa2",
+  "amount_paid": 4726.45,
+  "stripe_destination_id": "22c29017-cb4d-4556-9b0f-1848f0e8c800",
+  "date_created": {
+    "$date": "2023-09-19T23:29:58.000Z"
+  },
+  "source_id": {
+    "$oid": "661e6c0ffc13ae2b2aab8a0a"
+  },
+  "destination_id": {
+    "$oid": "661e6c0ffc13ae2b2aab8a0b"
+  },
+  "cause_id": {
+    "$oid": "661e6c0ffc13ae2b2aab8a0c"
+  }
+},
+{
+  "_id": {
+    "$oid": "661e6c0ffc13ae2b2aab8a0d"
+  },
+  "transaction_hash": "$2a$04$ty2HoIpGFaMAPEI3nJ.4Wusa4Y6K5mQOCHde0lgT.GixIR8kKud02",
+  "amount_paid": 9772.03,
+  "stripe_destination_id": "6c70d5ee-2953-4455-92d4-90e82b449a56",
+  "date_created": {
+    "$date": "2023-11-26T03:33:44.000Z"
+  },
+  "source_id": {
+    "$oid": "661e6c0ffc13ae2b2aab8a0e"
+  },
+  "destination_id": {
+    "$oid": "661e6c0ffc13ae2b2aab8a0f"
+  },
+  "cause_id": {
+    "$oid": "661e6c0ffc13ae2b2aab8a10"
+  }
+},
+{
+  "_id": {
+    "$oid": "661e6c0ffc13ae2b2aab8a11"
+  },
+  "transaction_hash": "$2a$04$.RDP/mqCQ89J5ZZGgrN4H.pg0kiZv8DuoMM72ycErMXctRMPiAQdK",
+  "amount_paid": 5390.37,
+  "stripe_destination_id": "342b4c36-4578-42fd-a4e6-55620952aa40",
+  "date_created": {
+    "$date": "2024-02-01T01:14:27.000Z"
+  },
+  "source_id": {
+    "$oid": "661e6c0ffc13ae2b2aab8a12"
+  },
+  "destination_id": {
+    "$oid": "661e6c0ffc13ae2b2aab8a13"
+  },
+  "cause_id": {
+    "$oid": "661e6c0ffc13ae2b2aab8a14"
+  }
+},
+{
+  "_id": {
+    "$oid": "661e6c0ffc13ae2b2aab8a15"
+  },
+  "transaction_hash": "$2a$04$GgVRlO6DDTZOJG2rGDwEGe9qZvCyW01jT.wM0OZAgnCdUQ5T2mLpe",
+  "amount_paid": 9402.21,
+  "stripe_destination_id": "89f45d1a-029a-4c9a-837a-aafac0f63efe",
+  "date_created": {
+    "$date": "2023-05-30T02:23:54.000Z"
+  },
+  "source_id": {
+    "$oid": "661e6c0ffc13ae2b2aab8a16"
+  },
+  "destination_id": {
+    "$oid": "661e6c0ffc13ae2b2aab8a17"
+  },
+  "cause_id": {
+    "$oid": "661e6c0ffc13ae2b2aab8a18"
+  }
+},
+{
+  "_id": {
+    "$oid": "661e6c0ffc13ae2b2aab8a19"
+  },
+  "transaction_hash": "$2a$04$3pmpqTLCHLytbmBIXDEHR.fPBPokBA3tkWQ1jHzzGQct9r8ZMAnU.",
+  "amount_paid": 2646.7,
+  "stripe_destination_id": "6ad626f6-5df3-49fb-88aa-8b163e6d1117",
+  "date_created": {
+    "$date": "2023-04-19T03:19:36.000Z"
+  },
+  "source_id": {
+    "$oid": "661e6c0ffc13ae2b2aab8a1a"
+  },
+  "destination_id": {
+    "$oid": "661e6c0ffc13ae2b2aab8a1b"
+  },
+  "cause_id": {
+    "$oid": "661e6c0ffc13ae2b2aab8a1c"
+  }
+},
+{
+  "_id": {
+    "$oid": "661e6c0ffc13ae2b2aab8a1d"
+  },
+  "transaction_hash": "$2a$04$eAtvGGvuAbTN7.18zNW4HOyCCarWU/YV4k0.njlq83iDsEfQcfb6W",
+  "amount_paid": 8047.68,
+  "stripe_destination_id": "0f40c14f-a236-49d0-a757-6f4391fb9e56",
+  "date_created": {
+    "$date": "2024-01-15T11:08:58.000Z"
+  },
+  "source_id": {
+    "$oid": "661e6c0ffc13ae2b2aab8a1e"
+  },
+  "destination_id": {
+    "$oid": "661e6c0ffc13ae2b2aab8a1f"
+  },
+  "cause_id": {
+    "$oid": "661e6c0ffc13ae2b2aab8a20"
+  }
+},
+{
+  "_id": {
+    "$oid": "661e6c0ffc13ae2b2aab8a21"
+  },
+  "transaction_hash": "$2a$04$eTHoJEJlhEkCyIMCgsysJOidtStaDSqFyDvt3a4gw3GIMF8.55s4i",
+  "amount_paid": 4643.1,
+  "stripe_destination_id": "d6aedcaf-17e6-4a94-b65d-04a8997aaa9d",
+  "date_created": {
+    "$date": "2023-10-14T18:31:45.000Z"
+  },
+  "source_id": {
+    "$oid": "661e6c0ffc13ae2b2aab8a22"
+  },
+  "destination_id": {
+    "$oid": "661e6c0ffc13ae2b2aab8a23"
+  },
+  "cause_id": {
+    "$oid": "661e6c0ffc13ae2b2aab8a24"
+  }
+}]
